@@ -1,0 +1,9 @@
+## it defines the worflow of every single step tht we follow in this project 
+
+-> CONSTANTS 
+->CONFIG_ENTITY
+-> ARTIFACTS_ENTITY 
+-> COMPONENTS 
+-> PIPELINE 
+-> DEMO.PY / APP.PY
+

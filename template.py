@@ -1,3 +1,4 @@
+# used for creating the project structure 
 import os
 from pathlib import Path
 
