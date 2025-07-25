@@ -2,3 +2,5 @@
 /username_db.txt
 /logs
 /src.egg-info
+/data.csv
+/model.pkl
